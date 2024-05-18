@@ -1,0 +1,15 @@
+{
+  "name": "set-discord-template",
+  "version": "1.0.1",
+  "description": "this can help you to develop discord bot",
+  "main": "index.js",
+  "bin": {
+    "set-discord-template": "./bin/generate-bot.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
