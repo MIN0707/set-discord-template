@@ -2,7 +2,7 @@
 const { execSync } = require("child_process");
 
 const projectPath = process.cwd();
-const GIT_REPO = "https://github.com/MIN0707/Discord-Bot-Template";
+const GIT_REPO = "https://github.com/BBugHouse/Discord-Bot-Template";
 
 async function main() {
   try {
